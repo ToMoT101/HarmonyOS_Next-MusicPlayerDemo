@@ -1,0 +1,27 @@
+{
+  "entry\\src\\main\\ets\\entryability\\EntryAbility.ets": [
+    "If"
+  ],
+  "entry\\src\\main\\ets\\pages\\Index.ets": [
+    "Column",
+    "Row",
+    "Text",
+    "List",
+    "ForEach",
+    "ListItem",
+    "Image",
+    "If"
+  ],
+  "entry\\src\\main\\ets\\pages\\Play.ets": [
+    "SwiperController",
+    "Column",
+    "Swiper",
+    "ForEach",
+    "Image",
+    "Slider",
+    "Row",
+    "Text",
+    "Button",
+    "If"
+  ]
+}
